@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/52b7c33eab404209b9ba5d86a55bdaf8' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
-
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+Video created with Loom
+
+<iframe width="400" heigth="200" src="https://www.loom.com/share/52b7c33eab404209b9ba5d86a55bdaf8" alt="Video Walkthrough"></iframe>
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -39,8 +39,6 @@ GIF created with ...
 Describe any challenges encountered while building the app.
 
 I felt that the instructions and teaching methods were pretty straightforward and did not have major issues while building the website. I learned a lot of new methods throughout this prework.
-
-If anything, not being able to use any of the links during the challenges were the hardest, because then I had to go find them on my own.
 
 ## License
 
