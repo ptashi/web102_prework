@@ -40,6 +40,8 @@ Describe any challenges encountered while building the app.
 
 I felt that the instructions and teaching methods were pretty straightforward and did not have major issues while building the website. I learned a lot of new methods throughout this prework.
 
+If anything, not being able to use any of the links during the challenges were the hardest, because then I had to go find them on my own.
+
 ## License
 
     Copyright 2026 Pema Tashi
