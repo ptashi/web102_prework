@@ -27,12 +27,7 @@ Here's a walkthrough of implemented features:
 
 Video created with Loom
 
-<div>
-  <iframe
-    src="https://www.loom.com/embed/52b7c33eab404209b9ba5d86a55bdaf8"
-    style="width: 400px; height: 200px;">
-  </iframe>
-</div>
+https://www.loom.com/embed/52b7c33eab404209b9ba5d86a55bdaf8
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
